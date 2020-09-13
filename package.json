@@ -4,7 +4,7 @@
     "version": "4.2.2",
     "scripts": {
         "start": "node_modules/.bin/gulp watch",
-        "build": "npm install"
+        "build": ""
     },
     "description": "A multipurpose HTML website template built with Bootstrap",
     "keywords": [
