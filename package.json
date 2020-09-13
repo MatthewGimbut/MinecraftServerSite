@@ -3,7 +3,8 @@
     "name": "startbootstrap-modern-business",
     "version": "4.2.2",
     "scripts": {
-        "start": "node_modules/.bin/gulp watch"
+        "start": "node_modules/.bin/gulp watch",
+        "build": "npm install"
     },
     "description": "A multipurpose HTML website template built with Bootstrap",
     "keywords": [
